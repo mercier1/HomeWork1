@@ -1,4 +1,4 @@
-package Modul02;
+package Modul02.HomeWork2_1;
 
 class Tesla {
     public int largest2(int[] intArray) {

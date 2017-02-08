@@ -1,4 +1,4 @@
-package Modul02;
+package Modul02.HomeWork2_1;
 
 public class zadanie1 {
     public static void main(String... args) {

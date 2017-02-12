@@ -12,5 +12,4 @@ public class Arithmetic {
         System.out.println(adder.check(9,7));
         System.out.println(arithmetic.add(9,8));
     }
-
 }
